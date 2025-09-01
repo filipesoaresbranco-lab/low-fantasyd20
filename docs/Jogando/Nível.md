@@ -1,3 +1,9 @@
+---
+title: Nível
+parent: Desafios e Progressão
+nav_order: 3
+---
+
 Sempre que você sobe um nível, você recebe pontos para gastar com: [[Atributos & Habilidades]] ou [[Perícias]].
 
 - **Atributo:** custa 1 ponto.
