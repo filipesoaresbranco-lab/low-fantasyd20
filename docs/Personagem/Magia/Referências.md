@@ -5,12 +5,15 @@ nav_order: 1
 ---
 
 ### Tabela de Complexidade
+
 |                    | Alcance     | Área       | Velocidade              | Duração                         | Dano/Cura |
 | ------------------ | ----------- | ---------- | ----------------------- | ------------------------------- | --------- |
 | Baixa Complexidade | <90m        | Alvo único | 10~50m/s                | <1min, ou até a próxima rodada  | 6         |
 | Média Complexidade | >90m,<180m  | <10m²      | 51m/s~99m/s             | 1min~30min, ou de 2 a 5 rodadas | 12        |
 | Alta Complexidade  | >180m,<300m | >10m²      | >100 m/s ou instantâneo | >30min                          | 18        |
+
 ## Arcana
+
 | Complexidade (Custo de Mana) | Caminhos         | Exemplos de Efeito                                                                                                                                             |
 | ---------------------------- | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Baixa Complexidade (1-3)     | **Meta**         | Infundir partes do corpo, acelerar tempos de reação, criar uma aura protetora fraca.                                                                           |
@@ -30,6 +33,7 @@ nav_order: 1
 | Alta Complexidade (9-10)     |                  | Desacelerar o tempo em uma área localizada, teleportar instantaneamente para qualquer lugar dentro de um grande raio, criar um portal entre longas distâncias. |
 
 ## Natural
+
 | Complexidade (Custo de Mana) | Caminhos       | Exemplos de Efeitos                                                                                                  |
 | ---------------------------- | -------------- | -------------------------------------------------------------------------------------------------------------------- |
 | Baixa Complexidade (4-5)     | **Animal**     | Comunique-se com animais próximos, adestre animais silvestres e controle insetos ou outros animais pequenos.         |
@@ -49,6 +53,7 @@ nav_order: 1
 | Alta Complexidade (8-10)     |                | Conjure espíritos elementares, entidades da natureza, incorpore seus poderes.                                        |
 
 ## Divina
+
 | Complexidade (Custo de Mana) | Caminhos       | Exemplos de Efeito                                                                                                          |
 | ---------------------------- | -------------- | --------------------------------------------------------------------------------------------------------------------------- |
 | Baixa Complexidade (1-2)     | **Elemental**  | Manifestar uma pequena centelha divina, purificar água.                                                                     |
@@ -68,6 +73,7 @@ nav_order: 1
 | Alta Complexidade (7-9)      |                | Curar ferimentos graves, remover doenças poderosas, transcender os limites da cura convencional.                            |
 
 ## Cósmica
+
 | Complexidade (Custo de Mana) | Escola           | Exemplos de Efeito                                                                                                                                  |
 | ---------------------------- | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Baixa Complexidade (2-4)     | **Espaço/Tempo** | brevemente desaparecer do plano material, criar portais individuais entre curtas distâncias                                                         |
