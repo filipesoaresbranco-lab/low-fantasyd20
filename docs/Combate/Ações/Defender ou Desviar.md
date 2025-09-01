@@ -19,6 +19,7 @@ Mesmo que um personagem não seja capaz de defender totalmente o ataque, ainda h
 | 3 a 5     | -2 Dano     |
 | 6 a 8     | -1 Dano     |
 | 9+        | Sem Redução |
+
 ## Valor de Desvio
 O seu desvio significa a sua capacidade para ser ágil e rápido, mas também o seu treinamento e aptidão para realizar tais ações. 
 - *Rapidez + Agilidade (+ Bônus de Classe)*
