@@ -1,3 +1,9 @@
+---
+title: Estresse
+parent: Descanso
+nav_order: 1
+---
+
 >Atenção, esta regra é opcional.
 
 Concomitantemente à sua saúde física, refletida na sua Vida, existe a sua saúde mental e psíquica, refletida nos pontos de Estresse.
