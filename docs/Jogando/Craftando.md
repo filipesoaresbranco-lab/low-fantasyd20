@@ -1,3 +1,9 @@
+---
+title: Craftando
+parent: Jogando
+nav_order: 3
+---
+
 Crafting depende de proficiência em ferramentas. A proficiência em ferramentas concede a capacidade de criar facilmente qualquer item que requeira componentes básicos associados a essa ferramenta. 
 No entanto, se um personagem não tiver proficiência na ferramenta que estará utilizando, ele precisará passar em um teste muito difícil da Perícia para fabricar o item com sucesso.
 
