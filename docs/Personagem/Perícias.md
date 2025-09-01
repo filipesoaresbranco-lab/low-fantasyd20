@@ -1,3 +1,8 @@
+---
+title: Perícias
+parent: Atributos & Habilidades
+nav_order: 1
+---
 Concatenadas às suas Habilidades, estão as suas Perícias. O valor de cada Atributo é a quantidade máxima de Perícias dele que você pode possuir.  Não possuir uma perícia não te impede de tentar realizar um teste que a envolva, mas você sempre terá Desvantagem na hora de rolar.
 
 ### Fazendo Testes
