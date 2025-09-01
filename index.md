@@ -3,11 +3,11 @@ title: Home
 layout: home
 ---
 
-[[Jogando]]
+[Jogando]
 <br>
-[[combate]]
+[combate]
 <br>
-[[Personagem]]
+[Personagem]
 
 ----
 
