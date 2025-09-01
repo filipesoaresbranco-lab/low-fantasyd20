@@ -1,3 +1,10 @@
+---
+title: Ações
+parent: Combate
+nav_order: 1
+---
+## Ações
+### Pontos de Ação
 Durante o seu turno de combate, você possui **três Pontos de Ação** para realizar as seguintes ações, em qualquer ordem e sem limite de vezes, desde que você possua pontos.
 
 - [[Movimento]]: Custa um Ponto de Ação. Pode ser interrompido e retomado.
