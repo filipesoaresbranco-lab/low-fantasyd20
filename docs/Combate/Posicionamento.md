@@ -1,4 +1,10 @@
-Certas ações só podem serem tomadas estando corretamente posicionado no campo de batalha.
+---
+title: Posicionamento
+parent: Combate
+nav_order: 3
+---
+
+Certas ações só podem serem tomadas estando corretamente posicionado no campo de batalha, outras alteram seu posicionamento.
 ## Ajudar
 Quando um personagem está adjacente a um aliado, é possível gastar 1 Ponto de Ação para Ajudar o aliado, dando-o Vantagem na próxima rolagem de D20.
 
