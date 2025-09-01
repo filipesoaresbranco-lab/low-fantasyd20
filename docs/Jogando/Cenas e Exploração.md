@@ -1,3 +1,13 @@
+---
+title: Cenas e Exploração
+parent: Jogando
+nav_order: 2
+---
+
+## Cenas
+Cada **cena** é um momento em que o Mestre está narrando um encontro, e os jogadores precisam resolver algum problema, ou fazer alguns testes. Para evitar narrações tediosas de viagens, passagens de dia, etc., utilizamos ainda de **transições**, que não são nada além de cenas curtas, sem participação dos jogadores.
+
+## Explorando
 Quando o grupo não estiver em combate ou interagindo com NPCs, eles provavelmente estarão explorando. Diferente de combates ou interações sociais puras, a exploração envolve a descoberta de ambientes, a investigação de mistérios e a superação de desafios. Uma exploração bem conduzida pelo Mestre (**GM**) não apenas avança a narrativa, mas também a imersão dos jogadores no mundo do jogo.
 
 ### Elementos essenciais para cenas de exploração
