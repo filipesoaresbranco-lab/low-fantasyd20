@@ -1,3 +1,8 @@
+---
+title: Equipamento
+parent: Personagem
+nav_order: 5
+---
 ## Proteção
 Comumente, as pessoas não utilizam equipamentos de proteção -- a não ser aqueles que ganham a vida arriscando-a todos os dias. Portanto, roupas comuns de qualquer tipo não garantem proteção contra dano, e sim equipamentos. A partir disso, qualquer um pode utilizar equipamentos leves, mas são necessárias Perícias.
 
