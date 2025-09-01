@@ -15,6 +15,7 @@ Vamos listar alguns exemplos de obras que podemos considerar como de baixa fanta
 - A série de livros The Witcher
 - O Nome do Vento (Patrick Rothfuss)
 - A franquia Dark Souls
+
 ----
 
 [^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
