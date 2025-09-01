@@ -1,3 +1,8 @@
+---
+title: Itens Mágicos
+parent: Sistema de Magia
+nav_order: 2
+---
 Itens mágicos são raros e muitas vezes únicos. São objetos construídos para uma função específica, seguindo a lógica de **Verbo(s)** + **Nome(s)**. Usar um item mágico nunca é trivial, pois sempre exigem algo em troca (mana, sangue, concentração, etc.).
 
 #### 1. Itens de Uso Único (Consumíveis)
