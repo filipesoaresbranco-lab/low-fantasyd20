@@ -1,3 +1,9 @@
+---
+title: Referências
+parent: Sistema de Magia
+nav_order: 1
+---
+
 ### Tabela de Complexidade
 |                    | Alcance     | Área       | Velocidade              | Duração                         | Dano/Cura |
 | ------------------ | ----------- | ---------- | ----------------------- | ------------------------------- | --------- |
