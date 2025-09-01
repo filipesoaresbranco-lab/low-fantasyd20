@@ -1,4 +1,10 @@
-Você pode criar o seu talento de acordo com seu conceito de personagem, e seu Arquétipo, gastando suas Estrelas. 
+---
+title: Talento
+parent: Personagem
+nav_order: 7
+---
+## Talentos
+Talentos são parte do mid e late game, para depois que você possui alguns níveis. Você pode criar o seu talento de acordo com seu conceito de personagem, e seu Arquétipo, gastando suas Estrelas. 
 
 ### Criando
 Cada talento possui custo mínimo de 3 Estrelas. Talentos podem obter as seguintes Mecânicas, desde que você possua as Estrelas para pagar:
