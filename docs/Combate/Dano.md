@@ -1,3 +1,8 @@
+---
+title: Dano
+parent: Combate
+nav_order: 4
+---
 ### Valores de Dano
 Não fazemos distinção entre **tipos** de Dano, e sim entre **valores**. Utilizamos dados diferentes de acordo com a arma ou feitiço.
 
