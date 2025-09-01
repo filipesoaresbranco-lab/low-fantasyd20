@@ -1,3 +1,8 @@
+---
+title: Desafios e Progressão
+parent: Jogando
+nav_order: 3
+---
 
 ## Desafios
 
