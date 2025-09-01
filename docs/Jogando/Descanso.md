@@ -3,7 +3,7 @@ title: Descanso
 parent: Jogando
 nav_order: 5
 ---
-
+# Descanso
 Para se recuperar o vigor, os personagens podem descansar. As regras abaixo definem três tipos de descanso:
 ### Descanso Curto
 De 30 minutos à 1 hora, os personagens podem fazer um descanso rápido. Isso recupera 1d6 de Vida e 2d6 de Mana.
