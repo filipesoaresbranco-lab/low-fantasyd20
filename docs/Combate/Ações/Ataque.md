@@ -1,3 +1,9 @@
+---
+title: Ataque
+parent: Ações
+nav_order: 1
+---
+## Ataque
 Você pode atacar com uma arma, ou com suas próprias mãos. Mas geralmente é melhor se usar uma arma. 
 
 O ataque é feito da seguinte maneira: 
