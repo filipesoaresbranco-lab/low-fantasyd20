@@ -1,3 +1,9 @@
+---
+title: Veículos e Construtos
+parent: Jogando
+nav_order: 7
+---
+# Veículos e Construtos
 ### Atributos
 Potência: Este atributo reflete a força de propulsão, capacidade de aceleração e potência mecânica geral do motor do veículo. Influencia a sua velocidade, a capacidade de reboque e a capacidade de superar obstáculos.
 
