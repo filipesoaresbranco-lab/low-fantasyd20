@@ -1,3 +1,8 @@
+---
+title: Condições e Consequências
+parent: Combate
+nav_order: 5
+---
 Efeitos e complicações quem impõem certas condições aos personagens do mundo. São diferenciados entre aqueles que são impostos à você, as condições, e aqueles que você opta por aceitar para não sofrer um resultado pior: as consequências. 
 
 ## Condições
