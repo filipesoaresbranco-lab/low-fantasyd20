@@ -1,3 +1,8 @@
+---
+title: Inconsciente
+parent: Condições e Consequências
+nav_order: 1
+---
 Existe uma mais severa entre as demais [[Condições & Consequências]]. Quando um personagem chega a 0 pontos de vida, ele entra no estado Inconsciente.
 #### Inconsciente
 O personagem está inconsciente, incapaz de agir conscientemente. 
