@@ -1,3 +1,9 @@
+---
+title: Manobras
+parent: Combate
+nav_order: 6
+---
+## Manobras
 Dentre as ações possíveis de um personagem durante conflitos, as Manobras apresentam atos e movimentos específicos sob regras específicas, que ajudam a dar mais dinâmica e níveis de estratégia ao combate do jogo. 
 
 ### Criando Manobras
