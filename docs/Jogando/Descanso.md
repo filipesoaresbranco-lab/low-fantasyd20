@@ -1,5 +1,5 @@
 ---
-title: Desafios e Progressão
+title: Descanso
 parent: Jogando
 nav_order: 5
 ---
