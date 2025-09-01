@@ -1,3 +1,9 @@
+---
+title: Defender ou Desviar
+parent: Ações
+nav_order: 2
+---
+## Defender ou Desviar
 Ao ser alvo de ataques corpo-a-corpo e a alguns feitiços, você pode escolher entre mitigar (usando a Defesa) o dano, ou gastar a sua [[Reação]] para tentar desviar do ataque ou, caso você possua um escudo ou simular proteção, aumentar suas chances de Defesa. Todavia, ao ser alvejado por ataques de longo alcance e a maioria dos feitiços, você não pode Desviar.  
 
 ## Valor de Defesa 
