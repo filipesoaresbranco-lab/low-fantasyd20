@@ -1,4 +1,10 @@
-São consideradas Manobras conhecidas por todos os personagens realizadas para reagir ao turno de outrem. Toda Rodada, você possui duas Reações, e você só pode realiza-las fora de seu Turno.
+---
+title: Reação
+parent: Ações
+nav_order: 4
+---
+## Reações
+São consideradas Manobras conhecidas por todos os personagens utilizadas para reagir ao turno de outrem. Toda Rodada, você possui duas Reações, e você só pode realiza-las fora de seu Turno.
 
 ### Desviar
 _Reação_
