@@ -1,7 +1,7 @@
 ---
 title: Craftando
 parent: Jogando
-nav_order: 3
+nav_order: 4
 ---
 
 Crafting depende de proficiência em ferramentas. A proficiência em ferramentas concede a capacidade de criar facilmente qualquer item que requeira componentes básicos associados a essa ferramenta. 
