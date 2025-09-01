@@ -1,3 +1,9 @@
+---
+title: Turno de Combate
+parent: Combate
+nav_order: 2
+---
+
 ## Turno
 Um Turno de Combate é o momento em que um personagem consegue agir dentro de um conflito, ou seja, são ações que levam apenas alguns segundos dentro do tempo do jogo. 
 ### Iniciativa 
