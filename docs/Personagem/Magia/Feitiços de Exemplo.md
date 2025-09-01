@@ -1,10 +1,15 @@
+---
+title: Feitiços de Exemplo
+parent: Sistema de Magia
+nav_order: 3
+---
 ### **Ofensivos**
 
 #### **Arremesso de Pedras**
 
-_Arcana_  
-_Criar (5) + Controlar (5) Terra (1)_  
-**11 + 2 = 13 Mana**
+_Arcana_ <br>  
+_Criar (5) + Controlar (5) Terra (1)_ <br> 
+**11 + 2 = 13 Mana**<br>
 
 ##### Descrição
 
@@ -20,9 +25,9 @@ Este feitiço permite ao conjurador controlar fragmentos de rocha ou pedra, lan�
 
 #### **Punho Arcano**
 
-_Arcana_  
-_Criar (5) + Controlar (5) Meta (3)_  
-**13 + 2 = 15 Mana**
+_Arcana_  <br>
+_Criar (5) + Controlar (5) Meta (3)_  <br>
+**13 + 2 = 15 Mana**<br>
 
 ##### Descrição
 
@@ -39,9 +44,9 @@ O conjurador infunde sua força física com energia mágica, parar criar uma esf
 
 #### **Cone de Fogo**
 
-_Natural_  
-_Criar (5) + Controlar (5) Fogo (2)_  
-**12 + 4 = 16 Mana**
+_Natural_  <br>
+_Criar (5) + Controlar (5) Fogo (2)_  <br>
+**12 + 4 = 16 Mana**<br>
 
 ##### Descrição
 
@@ -58,9 +63,9 @@ O Mago consegue soprar uma explosão de chamas em forma de cone na direção do 
 
 #### **Tremor da Terra**
 
-_Natural_  
-_Entender (3) + Controlar (5) Terra (3)_  
-**11 + 5 = 16 Mana**
+_Natural_ <br>  
+_Entender (3) + Controlar (5) Terra (3)_ <br>  
+**11 + 5 = 16 Mana**<br>
 
 ##### Descrição
 
@@ -77,9 +82,9 @@ O solo da área designada começa a tremer violentamente. Rochas se deslocam, cr
 
 #### **Raio de Gelo**
 
-_Arcana_  
-_Criar (5) + Controlar (5) Gelo (3)_  
-**13 + 6 = 19 Mana**
+_Arcana_ <br>  
+_Criar (5) + Controlar (5) Gelo (3)_ <br>  
+**13 + 6 = 19 Mana**<br>
 
 ##### Descrição
 
@@ -96,9 +101,9 @@ O raio de gelo é lançado da ponta dos dedos do conjurador em direção ao alvo
 
 #### **Ponto de Pressão**
 
-_Arcana_  
-_Entender (3) + Controlar (5) Ar (4)_  
-**12 + 8 = 20 Mana**
+_Arcana_ <br>  
+_Entender (3) + Controlar (5) Ar (4)_ <br>  
+**12 + 8 = 20 Mana**<br>
 
 ##### Descrição
 
@@ -116,9 +121,9 @@ Com este feitiço, o conjurador direciona uma rajada de ar concentrado em um pon
 
 #### **Espinhos de Vinha**
 
-_Natural_  
-_Criar (5) + Controlar (5) Planta (4)_  
-**13 + 8 = 21 Mana**
+_Natural_  <br>
+_Criar (5) + Controlar (5) Planta (4)_ <br>  
+**13 + 8 = 21 Mana**<br>
 
 ##### Descrição
 
@@ -136,9 +141,9 @@ Este feitiço faz com que espinhos afiados de vinha surjam do solo em direção 
 
 #### **Lâmina Fantasma**
 
-_Arcana_  
-_Criar (5) + Controlar (5) Luz (4) Meta (1)_  
-**15 + 9 = 23 Mana**
+_Arcana_  <br>
+_Criar (5) + Controlar (5) Luz (4) Meta (1)_  <br>
+**15 + 9 = 23 Mana**<br>
 
 ##### Descrição
 
@@ -156,9 +161,9 @@ Este feitiço invoca uma lâmina arcana quase etérea que corta através do ar e
 
 #### **Fogo Sagrado**
 
-_Divina_  
-_Criar (5) + Controlar (5) Fogo (5)_  
-**15 + 10 = 25 Mana**
+_Divina_  <br>
+_Criar (5) + Controlar (5) Fogo (5)_  <br>
+**15 + 10 = 25 Mana**<br>
 
 ##### Descrição
 
@@ -177,9 +182,9 @@ Este feitiço convoca uma intensa chama sagrada que irrompe do chão em uma áre
 
 #### **Bola de Fogo**
 
-_Arcana_  
-_Criar (5) + Controlar (5) Fogo (5)_  
-**15 + 10 = 25 Mana**
+_Arcana_  <br>
+_Criar (5) + Controlar (5) Fogo (5)_  <br>
+**15 + 10 = 25 Mana**<br>
 
 ##### Descrição
 
@@ -197,9 +202,9 @@ Este feitiço conjura uma esfera de chamas mágicas que explode no ponto de impa
 
 #### **Explosão Arcana**
 
-_Arcana_  
-_Criar (5) + Controlar (5) Meta (5)_  
-**15 + 10 = 25 Mana**
+_Arcana_  <br>
+_Criar (5) + Controlar (5) Meta (5)_  <br>
+**15 + 10 = 25 Mana**<br>
 
 ##### Descrição
 
@@ -216,9 +221,9 @@ Este poderoso feitiço invoca uma explosão de energia arcana pura que irrompe d
 
 #### **Tempestade de Raios**
 
-_Natural_  
-_Criar (5) + Controlar (5) Vento (4) + Eletricidade (4)_  
-**18 + 9 = 27 Mana**
+_Natural_  <br>
+_Criar (5) + Controlar (5) Vento (4) + Eletricidade (4)_  <br>
+**18 + 9 = 27 Mana**<br>
 
 ##### Descrição
 
@@ -236,9 +241,9 @@ Este feitiço convoca uma tempestade de relâmpagos que se abate sobre a área d
 
 #### **Invocação de Meteorito**
 
-_Cósmica_  
-_Entender (3) + Controlar (5) + Invocação (6)_  
-**14 + 15 = 29 Mana**
+_Cósmica_  <br>
+_Entender (3) + Controlar (5) + Invocação (6)_  <br>
+**14 + 15 = 29 Mana**<br>
 
 ##### Descrição
 
@@ -255,9 +260,9 @@ Abre na atmosfera um portal que convoca um meteorito ardente dos confins do espa
 
 #### **Lâmina de Gelo**
 
-_Arcana_  
-_Criar (5) + Controlar (5) + Gelo (3)_  
-**13 + 6 = 19 Mana**
+_Arcana_  <br>
+_Criar (5) + Controlar (5) + Gelo (3)_  <br>
+**13 + 6 = 19 Mana**<br>
 
 ##### Descrição
 
@@ -275,9 +280,9 @@ O conjurador cria uma lâmina afiada de gelo que pode ser arremessada em direç�
 
 #### **Rajada de Areia**
 
-_Natural_  
-_Criar (5) + Controlar (5) + Terra (2)_  
-**12 + 4 = 16 Mana**
+_Natural_  <br>
+_Criar (5) + Controlar (5) + Terra (2)_  <br>
+**12 + 4 = 16 Mana**<br>
 
 ##### Descrição
 
@@ -294,9 +299,9 @@ O conjurador invoca uma rajada de areia e poeira que cega e desorienta os inimig
 
 #### **Espírito Vingativo**
 
-_Divina_  
-_Criar (5) + Controlar (5) + Espiritual (4)_  
-**14 + 8 = 22 Mana**
+_Divina_  <br>
+_Criar (5) + Controlar (5) + Espiritual (4)_  <br>
+**14 + 8 = 22 Mana**<br>
 
 ##### Descrição
 
@@ -316,9 +321,9 @@ O conjurador invoca um espírito vingativo que ataca o alvo com golpes etéreos,
 
 #### **Mão Mágica**
 
-_Arcana_  
-_Criar (5) + Controlar (5) Meta (2)_  
-**12 + 3 = 15 Mana**
+_Arcana_  <br>
+_Criar (5) + Controlar (5) Meta (2)_  <br>
+**12 + 3 = 15 Mana**<br>
 
 ##### Descrição
 
@@ -334,9 +339,9 @@ Este feitiço cria uma mão etérea e translúcida que obedece aos comandos do c
 
 #### **Criar Peçonha**
 
-_Natural_  
-_Criar (5) + Controlar (5) Animal (2)_  
-**12 + 6 = 18 Mana**
+_Natural_  <br>
+_Criar (5) + Controlar (5) Animal (2)_  <br>
+**12 + 6 = 18 Mana**<br>
 
 ##### Descrição
 
@@ -354,9 +359,9 @@ Um feitiço para criar um liquido venenoso capaz de untar qualquer arma ou objet
 
 #### **Transmutação Menor**
 
-_Arcana_  
-_Entender (3) + Controlar (5) Matéria (3)_  
-**11 + 4 = 15 Mana**
+_Arcana_  <br>
+_Entender (3) + Controlar (5) Matéria (3)_  <br>
+**11 + 4 = 15 Mana**<br>
 
 ##### Descrição
 
@@ -372,9 +377,9 @@ Este feitiço permite ao conjurador transmutar temporariamente um objeto inanima
 
 #### **Conjuração Menor**
 
-_Arcana_  
-_Criar (5) + Controlar (5) + Meta (1)_  
-**11 + 2 = 13 Mana**
+_Arcana_  <br>
+_Criar (5) + Controlar (5) + Meta (1)_  <br>
+**11 + 2 = 13 Mana**<br>
 
 ##### Descrição
 
@@ -390,9 +395,9 @@ Este feitiço permite ao conjurador criar pequenos objetos inanimados feitos de 
 
 #### **Benção Divina**
 
-_Divina_  
-_Criar (5) + Controlar (5) Vida (2)_  
-**12 + 3 = 15 Mana**
+_Divina_  <br>
+_Criar (5) + Controlar (5) Vida (2)_  <br>
+**12 + 3 = 15 Mana**<br>
 
 ##### Descrição
 
@@ -408,9 +413,9 @@ Este feitiço concede energia divina ao alvo, fortalecendo sua habilidade físic
 
 #### **Divinação**
 
-_Cósmica_  
-_Entender (3) + Controlar (5) Oracular (5)_  
-**13 + 2 = 15 Mana**
+_Cósmica_  <br>
+_Entender (3) + Controlar (5) Oracular (5)_  <br>
+**13 + 2 = 15 Mana**<br>
 
 ##### Descrição
 
@@ -424,9 +429,9 @@ Magia para entrar em contato com o seu deus. Você faz uma única pergunta relac
 
 #### **Comunicação Natural**
 
-_Natural_  
-_Entender (3) + Controlar (5) Animal (5)_  
-**13 + 3 = 16 Mana**
+_Natural_  <br>
+_Entender (3) + Controlar (5) Animal (5)_  <br>
+**13 + 3 = 16 Mana**<br>
 
 ##### Descrição
 
@@ -442,9 +447,9 @@ Este feitiço permite ao conjurador estabelecer uma comunicação telepática co
 
 #### **Blink**
 
-_Arcana_  
-_Entender (3) + Controlar (5) Espaço/Tempo (8)_  
-**16 + 3 = 19 Mana**
+_Arcana_  <br>
+_Entender (3) + Controlar (5) Espaço/Tempo (8)_  <br>
+**16 + 3 = 19 Mana**<br>
 
 ##### Descrição
 
@@ -460,9 +465,9 @@ O conjurador se envolve em uma aura de energia que o permite desaparecer instant
 
 #### **Lufada de Vento**
 
-_Natural_  
-_Criar (5) + Controlar (5) Ar (4)_  
-**14 + 4 = 18 Mana**
+_Natural_  <br>
+_Criar (5) + Controlar (5) Ar (4)_  <br>
+**14 + 4 = 18 Mana**<br>
 
 ##### Descrição
 
@@ -479,9 +484,9 @@ Este feitiço invoca uma poderosa lufada de vento que empurra os inimigos para l
 
 #### **Portal Interdimensional**
 
-_Cósmica_  
-_Entender (3) + Criar (5) + Portal (3)_  
-**11 + 6 = 17 Mana**
+_Cósmica_  <br>
+_Entender (3) + Criar (5) + Portal (3)_  <br>
+**11 + 6 = 17 Mana**<br>
 
 ##### Descrição
 
@@ -498,9 +503,9 @@ Este feitiço cria um portal interdimensional que liga duas áreas distantes, pe
 
 #### **Clarão Cegante**
 
-_Divina_  
-_Criar (5) + Controlar (5) Luz (4)_  
-**14 + 4 = 18 Mana**
+_Divina_  <br>
+_Criar (5) + Controlar (5) Luz (4)_  <br>
+**14 + 4 = 18 Mana**<br>
 
 ##### Descrição
 
@@ -516,9 +521,9 @@ Este feitiço emite um clarão de luz intensa que cega temporariamente as criatu
 
 #### **Conjuração Maior**
 
-_Arcana_  
-_Criar (5) + Controlar (5) + Meta (5)_  
-**15 + 5 = 20 Mana**
+_Arcana_  <br>
+_Criar (5) + Controlar (5) + Meta (5)_  <br>
+**15 + 5 = 20 Mana**<br>
 
 ##### Descrição
 
@@ -534,9 +539,9 @@ Este feitiço permite ao conjurador criar objetos inanimados de maior complexida
 
 #### **Invisibilidade Ilusória**
 
-_Arcana_  
-_Criar (5) + Controlar (5) Luz (3)_  
-**13 + 6 = 19 Mana**
+_Arcana_  <br>
+_Criar (5) + Controlar (5) Luz (3)_  <br>
+**13 + 6 = 19 Mana**<br>
 
 ##### Descrição
 
@@ -553,9 +558,9 @@ Este feitiço cria uma ilusão que obscurece a presença do conjurador ou de um 
 
 #### **Clarividência**
 
-_Cósmica_  
-_Entender (3) + Controlar (5) Visão (5)_  
-**13 + 7 = 20 Mana**
+_Cósmica_  <br>
+_Entender (3) + Controlar (5) Visão (5)_  <br>
+**13 + 7 = 20 Mana**<br>
 
 ##### Descrição
 
@@ -571,9 +576,9 @@ Este feitiço permite ao conjurador ver e ouvir remotamente um local de seu conh
 
 #### **Invocação Infernal**
 
-_Cósmica_  
-_Entender (3) + Criar (5) + Invocação (5)_  
-**13 + 7 = 20 Mana**
+_Cósmica_  <br>
+_Entender (3) + Criar (5) + Invocação (5)_  <br>
+**13 + 7 = 20 Mana**<br>
 
 ##### Descrição
 
@@ -589,9 +594,9 @@ Este poderoso feitiço convoca um ser infernal para lutar ao lado do conjurador.
 
 #### **Armadilha Arcana**
 
-_Arcana_  
-_Criar (5) + Controlar (5) Meta (4)_  
-**14 + 5 = 19 Mana**
+_Arcana_  <br>
+_Criar (5) + Controlar (5) Meta (4)_  <br>
+**14 + 5 = 19 Mana**<br>
 
 ##### Descrição
 
@@ -610,9 +615,9 @@ Com este feitiço, o conjurador cria uma armadilha mágica que é ativada quando
 
 #### **Campo Anti-Magia**
 
-_Arcana_  
-_Criar (5) + Controlar (5) Meta (3)_  
-**13 + 9 = 22 Mana**
+_Arcana_  <br>
+_Criar (5) + Controlar (5) Meta (3)_  <br>
+**13 + 9 = 22 Mana**<br>
 
 ##### Descrição
 
@@ -629,9 +634,9 @@ Este feitiço cria uma área de supressão mágica que neutraliza temporariament
 
 #### **Purificação da Água**
 
-_Natural_  
-_Entender (3) + Controlar (5) + Água (1)_  
-**9 + 4 = 13 Mana**
+_Natural_  <br>
+_Entender (3) + Controlar (5) + Água (1)_  <br>
+**9 + 4 = 13 Mana**<br>
 
 ##### Descrição
 
@@ -648,9 +653,9 @@ Este feitiço purifica uma fonte de água, removendo impurezas e toxinas, tornan
 
 #### **Rastro Invisível**
 
-_Arcana_  
-_Criar (5) + Controlar (5) + Meta (3)_  
-**13 + 6 = 19 Mana**
+_Arcana_  <br>
+_Criar (5) + Controlar (5) + Meta (3)_  <br>
+**13 + 6 = 19 Mana**<br>
 
 ##### Descrição
 
@@ -668,9 +673,9 @@ O conjurador cria um rastro invisível que só pode ser seguido por ele ou por a
 
 #### **Banho Revigorante**
 
-_Natural_  
-_Entender (3) + Controlar (5) Água (6)_  
-**14 + 3 = 17 Mana**
+_Natural_  <br>
+_Entender (3) + Controlar (5) Água (6)_  <br>
+**14 + 3 = 17 Mana**<br>
 
 ##### Descrição
 
@@ -688,9 +693,9 @@ Este feitiço infunde uma poderosa fonte de energia vital na água, que é canal
 
 #### **Cura Milagrosa**
 
-_Divina_  
-_Entender (3) + Controlar (5) Vida (5)_  
-**13 + 5 = 18 Mana**
+_Divina_  <br>
+_Entender (3) + Controlar (5) Vida (5)_  <br>
+**13 + 5 = 18 Mana**<br>
 
 ##### Descrição
 
@@ -707,9 +712,9 @@ Convoca uma bênção divina que irradia do conjurador em direção ao alvo sele
 
 #### **Ilusão Tranquilizante**
 
-_Arcana_  
-_Entender (3) + Controlar (5) Luz (4)_  
-**12 + 6 = 18 Mana**
+_Arcana_  <br>
+_Entender (3) + Controlar (5) Luz (4)_  <br>
+**12 + 6 = 18 Mana**<br>
 
 ##### Descrição
 
@@ -726,9 +731,9 @@ Este feitiço cria uma ilusão reconfortante e tranquilizadora que envolve uma �
 
 #### **Escudo Arcano**
 
-_Arcana_  
-_Criar (5) + Controlar (5) Meta (3)_  
-**13 + 4 = 17 Mana**
+_Arcana_  <br>
+_Criar (5) + Controlar (5) Meta (3)_  <br>
+**13 + 4 = 17 Mana**<br>
 
 ##### Descrição
 
@@ -745,9 +750,9 @@ Este feitiço cria um escudo de energia mágica que repele ataques físicos e m�
 
 #### **Aura Milagrosa**
 
-_Divina_  
-_Criar (5) + Controlar (5) Espiritual (2) Vida (3)_  
-**15 + 5 = 20 Mana**
+_Divina_  <br>
+_Criar (5) + Controlar (5) Espiritual (2) Vida (3)_  <br>
+**15 + 5 = 20 Mana**<br>
 
 ##### Descrição
 
@@ -764,9 +769,9 @@ Um feitiço para expandir o seu espírito sagrado, a fim de auxiliar os aliados 
 
 #### **Camuflagem Mágica**
 
-_Natural_  
-_Criar (5) + Controlar (5) Vegetal (1)_  
-**11 + 4 = 15 Mana**
+_Natural_  <br>
+_Criar (5) + Controlar (5) Vegetal (1)_  <br>
+**11 + 4 = 15 Mana**<br>
 
 ##### Descrição
 
@@ -785,9 +790,9 @@ Cubra você e seus aliados em vegetação natural idêntica à do ambiente, torn
 
 #### **Barreira de Vento**
 
-_Natural_  
-_Criar (5) + Controlar (5) + Ar (4)_  
-**14 + 8 = 22 Mana**
+_Natural_  <br>
+_Criar (5) + Controlar (5) + Ar (4)_  <br>
+**14 + 8 = 22 Mana**<br>
 
 ##### Descrição
 
@@ -805,9 +810,9 @@ O conjurador cria uma barreira de vento forte que desvia projéteis e dificulta 
 
 #### **Cura Menor**
 
-_Divina_  
-_Entender (3) + Controlar (5) + Vida (2)_  
-**10 + 4 = 14 Mana**
+_Divina_  <br>
+_Entender (3) + Controlar (5) + Vida (2)_  <br>
+**10 + 4 = 14 Mana**<br>
 
 ##### Descrição
 
@@ -824,9 +829,9 @@ Este feitiço cura ferimentos leves, restaurando a vitalidade do alvo.
 
 #### **Escudo de Terra**
 
-_Natural_  
-_Criar (5) + Controlar (5) + Terra (3)_  
-**13 + 6 = 19 Mana**
+_Natural_  <br>
+_Criar (5) + Controlar (5) + Terra (3)_  <br>
+**13 + 6 = 19 Mana**<br>
 
 ##### Descrição
 
@@ -844,9 +849,9 @@ O conjurador ergue uma barreira de terra e pedras que protege a si mesmo ou a um
 
 #### **Sussurro da Natureza**
 
-_Natural_  
-_Entender (3) + Controlar (5) + Animal (2)_  
-**10 + 4 = 14 Mana**
+_Natural_  <br>
+_Entender (3) + Controlar (5) + Animal (2)_  <br>
+**10 + 4 = 14 Mana**<br>
 
 ##### Descrição
 
