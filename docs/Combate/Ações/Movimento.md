@@ -1,3 +1,10 @@
+---
+title: Movimento
+parent: Ações
+nav_order: 3
+---
+
+## Movimento
 Você se move em espaços representados no mapa por um quadrado ou hex, e cada quadrado ou hex possui 2 passos, ou 1,5 metros. 
 A capacidade de Movimento de qualquer personagem durante um [[Turno de Combate]] é de até 12 passos, ou 9 metros.
 
