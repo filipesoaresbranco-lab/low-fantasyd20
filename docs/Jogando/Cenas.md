@@ -1,0 +1,1 @@
+Cada **cena** é um momento em que o Mestre está narrando um encontro, e os jogadores precisam resolver algum problema, ou fazer alguns testes. Para evitar narrações tediosas de viagens, passagens de dia, etc., utilizamos ainda de **transições**, que não são nada além de cenas curtas, sem participação dos jogadores.
