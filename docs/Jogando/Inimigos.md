@@ -1,3 +1,9 @@
+---
+title: Inimigos
+parent: Jogando
+nav_order: 6
+---
+
 ## Recursos
 Em geral, inimigos possuem o mesmo número de recursos que personagens de jogadores. Todavia, há alguns campos extras.
 ##### Percepção
