@@ -9,7 +9,7 @@ São consideradas Manobras conhecidas por todos os personagens utilizadas para r
 ### Desviar
 _Reação_
 
-Ao ser alvo de um ataque corpo-a-corpo, ataque de feitiço, ou ataque em área, você pode fazer um Teste de Desvio (d6 + Desvio) e comparar com a rolagem de ataque do seu adversário. Em caso de empate, você desviou e não há acerto. 
+Ao ser alvo de um ataque corpo-a-corpo, ataque de feitiço, ou ataque em área, você pode fazer um Teste de Desvio (d6 + [Desvio](https://filipesoaresbranco-lab.github.io/low-fantasyd20/docs/Combate/Ações/Defender%20ou%20Desviar.html)) e comparar com a rolagem de ataque do seu adversário. Em caso de empate, você desviou e não há acerto. 
 
 ### Ataque de Oportunidade
 _Reação_
