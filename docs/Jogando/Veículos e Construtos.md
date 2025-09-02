@@ -5,21 +5,21 @@ nav_order: 7
 ---
 # Veículos e Construtos
 ### Atributos
-Potência: Este atributo reflete a força de propulsão, capacidade de aceleração e potência mecânica geral do motor do veículo. Influencia a sua velocidade, a capacidade de reboque e a capacidade de superar obstáculos.
+**Potência:** Este atributo reflete a força de propulsão, capacidade de aceleração e potência mecânica geral do motor do veículo. Influencia a sua velocidade, a capacidade de reboque e a capacidade de superar obstáculos.
 
-Manobrabilidade: Este atributo representa a agilidade, manuseio e capacidade de resposta do veículo aos controles. Influencia a capacidade do meio de transporte de navegar em espaços apertados, realizar manobras evasivas e manter a estabilidade durante manobras complexas ou de alta velocidade.
+**Manobrabilidade:** Este atributo representa a agilidade, manuseio e capacidade de resposta do veículo aos controles. Influencia a capacidade do meio de transporte de navegar em espaços apertados, realizar manobras evasivas e manter a estabilidade durante manobras complexas ou de alta velocidade.
 
-Resiliência: Este atributo indica a durabilidade, integridade estrutural e capacidade do veículo de resistir a danos causados por impactos, condições de terreno e ações hostis. Ele influencia os pontos de vida, a blindagem e a resistência ao desgaste do veículo.
+**Resiliência:** Este atributo indica a durabilidade, integridade estrutural e capacidade do veículo de resistir a danos causados por impactos, condições de terreno e ações hostis. Ele influencia os pontos de vida, a blindagem e a resistência ao desgaste do veículo.
 
-Tech: Este atributo abrange o equipamento tecnológico e a sofisticação do veículo. Ele influencia os sensores do veículo, dispositivos de comunicação, auxílios à navegação e outros recursos que melhoram sua funcionalidade.
+**Tech:** Este atributo abrange os equipamentos tecnológicos e a sofisticação do veículo. Ele influencia os sensores do veículo, dispositivos de comunicação, auxílios à navegação e outros recursos que melhoram sua funcionalidade.
 
-### HP 
+### PV 
 Os pontos de vida representam a durabilidade do veículo e a capacidade de resistir a danos antes de se tornar inoperante ou destruído. 
 
-HP de Veículos individuais e pequenos = Resiliência x 2 
-HP de Veículos médios e grandes = Resiliência x 4
-HP de Veículos muito grandes = Resiliência x 6
-HP de Veículos imensos = Resiliência x 8
+PV de Veículos individuais e pequenos = Resiliência x 2 
+PV de Veículos médios e grandes = Resiliência x 4
+PV de Veículos muito grandes = Resiliência x 6
+PV de Veículos imensos = Resiliência x 8
 
 ### Velocidade Máxima
 Refere-se à velocidade máxima que seu veículo pode atingir em condições ideais. Este atributo representa a velocidade mais alta na qual um veículo pode viajar em quilômetros por hora (km/h). 
@@ -43,12 +43,12 @@ O tipo do veículo determinará seu tamanho e utilização. É a "categoria" de 
 Uma descrição breve, mas produtiva, que permita elucidar detalhes importantes do seu veículo.
 
 **Tamanho**
-- Muito Pequeno: Operado por uma pessoa, geralmente comporta apenas 1 ou 2 passageiros.
-- Pequeno: Operado por apenas uma pessoa, pode acomodar de 2 a 4 passageiros confortavelmente. 
-- Médio: Pode transportar de 6 a 12 passageiros. Se necessário, são capazes de transportar menos passageiros para levar até 200 kg de carga. É operado por apenas uma pessoa, mas mas pode beneficiar de um auxiliar para funções adicionais, como navegação ou manutenção. 
-- Grande: Se usado para carga, pode levar até uma ou duas toneladas, mas ao custo de transportar no máximo dois a quatro passageiros. Se usado para transporte de pessoas, pode acomodar de 20 a 100 passageiros ou mais, dependendo do tipo e do layout. Na maioria dos casos, é operado por uma equipe de duas a quatro pessoas, mas alguns tipos podem ser operados por apenas um indivíduo.
-- Muito Grande: Pode transportar centenas de passageiros, ou múltiplas toneladas de carga, mas são dependentes de uma equipe extensa para operar e manter todas as suas funções, incluindo pilotos, equipe de cabine, engenheiros, técnicos e pessoal de serviço.
-- Imenso: Capaz de transportar milhares de passageiros, toneladas de carga, e ainda contar com um número de equipes diferentes, como oficialato, equipe de engenharia, equipe médica, comunicações, segurança, etc.
+- **Muito Pequeno:** Operado por uma pessoa, geralmente comporta apenas 1 ou 2 passageiros.
+- **Pequeno:** Operado por apenas uma pessoa, pode acomodar de 2 a 4 passageiros confortavelmente. 
+- **Médio:** Pode transportar de 6 a 12 passageiros. Se necessário, são capazes de transportar menos passageiros para levar até 200 kg de carga. É operado por apenas uma pessoa, mas mas pode beneficiar de um auxiliar para funções adicionais, como navegação ou manutenção. 
+- **Grande:** Se usado para carga, pode levar até uma ou duas toneladas, mas ao custo de transportar no máximo dois a quatro passageiros. Se usado para transporte de pessoas, pode acomodar de 20 a 100 passageiros ou mais, dependendo do tipo e do layout. Na maioria dos casos, é operado por uma equipe de duas a quatro pessoas, mas alguns tipos podem ser operados por apenas um indivíduo.
+- **Muito Grande:** Pode transportar centenas de passageiros, ou múltiplas toneladas de carga, mas são dependentes de uma equipe extensa para operar e manter todas as suas funções, incluindo pilotos, equipe de cabine, engenheiros, técnicos e pessoal de serviço.
+- **Imenso:** Capaz de transportar milhares de passageiros, toneladas de carga, e ainda contar com um número de equipes diferentes, como o oficialato, equipe de engenharia, equipe médica, comunicações, segurança, etc.
 
 **Uso**
 - Terrestre
