@@ -13,4 +13,5 @@ defaults:
       type: "pages"
     values:
       layout: "default"
-      color_scheme: dark
+      
+color_scheme: dark
