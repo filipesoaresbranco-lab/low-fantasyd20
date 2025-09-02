@@ -10,19 +10,19 @@ Um Desafio pode ser resumido em um objetivo a ser cumprido ou alcançado, e um n
 
 ### Desafio Fácil
 Ameaças cotidianas e problemas menores. Um cachorro raivoso, uma briga de taverna, escalar um muro alto, negociar com um comerciante ganancioso, etc.<br>
-Recompensa: 2 estrelas.
+**Recompensa:** 2 estrelas.
 
 ### Desafio Moderado
 Encontros que exigem preparação e esforço, onde vitória tem um custo em recursos ou ferimentos. Derrotar um grupo de bandidos, ou cruzar um rio traiçoeiro, por exemplo.<br>
-Recompensa: 5 estrelas.
+**Recompensa:** 5 estrelas.
 
 ### Desafio Difícil
 Encontros perigosos, com ameaças onde a derrota é uma possibilidade real. Alguns exemplos podem ser derrotar um Chefe, ou uma fera faminta da floresta; até mesmo conseguir sair de um labirinto, ou uma Dungeon perigosa.<br>
-Recompensa: 10 estrelas.
+**Recompensa:** 10 estrelas.
 
 ### Desafio Formidável
 Apenas confrontos raros e lendários. Um comandante de elite com sua unidade de soldados, uma criatura cósmica, etc. <br>
-Recompensa: 25 estrelas.
+**Recompensa:** 25 estrelas.
 
 ## Progressão
 Veja na lista abaixo quantas estrelas são necessárias para atingir cada nível:
