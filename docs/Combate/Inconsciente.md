@@ -3,10 +3,10 @@ title: Inconsciente
 parent: Condições e Consequências
 nav_order: 1
 ---
-Existe uma mais severa entre as demais [[Condições & Consequências]]. Quando um personagem chega a 0 pontos de vida, ele entra no estado Inconsciente.
+Existe uma mais severa entre as demais [Condições & Consequências](https://filipesoaresbranco-lab.github.io/low-fantasyd20/docs/Combate/Condições%20e%20Consequências.html). Quando um personagem chega a 0 pontos de vida, ele entra no estado Inconsciente.
 #### Inconsciente
 O personagem está inconsciente, incapaz de agir conscientemente. 
-**Penalidade:** O personagem está prostrado, não pode realizar ações e precisa fazer testes de resistir à morte. 
+**Penalidade:** O personagem está prostrado, não pode realizar ações e precisa fazer testes de resistir à morte. <br>
 **Duração:** Até ser estabilizado por cura mágica ou por uma ação bem-sucedida de Socorrer.
 
 ## Resistir à Morte:
@@ -28,4 +28,4 @@ Se o personagem obtiver três sucessos nos testes de resistir à morte, ele se e
 Qualquer cura mágica que eleve os pontos de vida do personagem acima de 0 o faz recuperar a consciência.
 
 ##### Socorrer
-Outros personagens podem tentar estabilizar um personagem inconsciente fazendo uma manobra de socorro bem-sucedida. Para mais informações, ver [[Manobras]].
+Outros personagens podem tentar estabilizar um personagem inconsciente fazendo uma manobra de socorro bem-sucedida. Para mais informações, ver [Manobras](https://filipesoaresbranco-lab.github.io/low-fantasyd20/docs/Combate/Manobras.html).
