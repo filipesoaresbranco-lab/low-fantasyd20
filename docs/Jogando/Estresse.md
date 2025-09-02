@@ -6,8 +6,8 @@ nav_order: 1
 
 >Atenção, esta regra é opcional.
 
-Concomitantemente à sua saúde física, refletida na sua Vida, existe a sua saúde mental e psíquica, refletida nos pontos de Estresse.
-O Mestre determina quais situações podem ativar um gatilho de Estresse, e então todos os personagens envolvidos devem fazer um **Teste de Estresse**. Role **1d6** e tire abaixo do seu Atributo Intelectual.
+Concomitantemente à sua saúde física, refletida na sua [Vida](https://filipesoaresbranco-lab.github.io/low-fantasyd20/docs/Personagem/Vida.html), existe a sua saúde mental e psíquica, refletida nos pontos de Estresse.
+O Mestre determina quais situações podem ativar um gatilho de Estresse, e então todos os personagens envolvidos devem fazer um **Teste de Estresse**. Role **1d6** e tire abaixo do seu [Atributo](https://filipesoaresbranco-lab.github.io/low-fantasyd20/docs/Personagem/Atributos%20&%20Habilidades.html) Intelectual.
 
 ### Caixa de Estresse e Esgotamento
 Todo indivíduo possui exatos três pontos de Estresse, ou Caixas de Estresse. Caso um personagem esgote todas as suas caixas, ele está Esgotado, e deve passar em um Teste Muito Difícil de Vontade antes de qualquer ação no seu turno. 
