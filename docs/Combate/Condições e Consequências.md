@@ -77,7 +77,7 @@ _Duração:_ Até o personagem gastar uma ação para se levantar.
 _Remoção da Condição:_ Levantando-se.
 
 ## Consequências
-Em momentos críticos, como um teste de resistência em que você falhou, ou ao receber um ataque forte o suficiente para te tornar [[Inconsciente]], você pode combinar com o Mestre uma consequência que seria alternativa ao resultado dos dados. 
+Em momentos críticos, como um teste de resistência em que você falhou, ou ao receber um ataque forte o suficiente para te tornar [Inconsciente](https://filipesoaresbranco-lab.github.io/low-fantasyd20/docs/Combate/Inconsciente.html), você pode combinar com o Mestre uma consequência que seria alternativa ao resultado dos dados. 
 
 Consequências são mais graves e duradouras. Portanto, ao contrário das condições, um personagem apenas recebe uma consequência quando opta por isso. O Mestre apenas decide qual o nível da consequência que se poderia aplicar. 
 
