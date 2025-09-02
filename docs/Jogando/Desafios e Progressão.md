@@ -1,7 +1,7 @@
 ---
 title: Desafios e Progressão
-parent: Jogando
-nav_order: 3
+parent: Mestre
+nav_order: 2
 ---
 
 ## Desafios
