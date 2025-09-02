@@ -18,8 +18,8 @@ Para se esconder, faça um teste de Furtividade e diga o resultado para o mestre
 Se você conseguir atacar uma criatura sem ter a sua posição revelada, você possui Vantagem na jogada de ataque. 
 
 ## Backstab
-Apunhalar um adversário pelas costas, estando ele ciente de sua presença ou não, te garante um bônus de +3 Dano.
+Apunhalar um adversário pelas costas, estando ele ciente de sua presença ou não, te garante um bônus de +3 [Dano](https://filipesoaresbranco-lab.github.io/low-fantasyd20/docs/Combate/Dano.html).
 
 ## Flanquear
-Quando um personagem está flanqueando um oponente, ele ganha +3 de bônus nas jogadas de Ataque e +3 de bônus nas jogadas de Desvio. 
+Quando um personagem está flanqueando um oponente, ele ganha +3 de bônus nas jogadas de Ataque e +3 de bônus nas jogadas de [Desvio](https://filipesoaresbranco-lab.github.io/low-fantasyd20/docs/Combate/Ações/Defender%20ou%20Desviar.html). 
 Para ser considerado flanqueando, um personagem deve ter um aliado no lado oposto do oponente. O oponente deve estar ciente de ambos os atacantes.
