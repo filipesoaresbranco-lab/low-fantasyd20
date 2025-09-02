@@ -1,5 +1,5 @@
 ---
-title: Nível
+title: Tabelas de Ganchos de História
 parent: Mestre
 nav_order: 3
 ---
