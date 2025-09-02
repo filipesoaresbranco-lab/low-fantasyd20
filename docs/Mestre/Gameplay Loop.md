@@ -1,5 +1,5 @@
 ---
-title: Nível
+title: Loop de Gameplay
 parent: Mestre
 nav_order: 1
 ---
