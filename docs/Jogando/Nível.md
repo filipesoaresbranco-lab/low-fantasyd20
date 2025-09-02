@@ -1,7 +1,7 @@
 ---
 title: Nível
 parent: Mestre
-nav_order: 5
+nav_order: 3
 ---
 
 Sempre que você sobe um nível, você recebe pontos para gastar com: [Atributos & Habilidades](https://filipesoaresbranco-lab.github.io/low-fantasyd20/docs/Personagem/Atributos%20&%20Habilidades.html) ou [Perícias](https://filipesoaresbranco-lab.github.io/low-fantasyd20/docs/Personagem/Perícias.html).
