@@ -3,7 +3,9 @@ title: Tabelas Extras
 parent: Mestre
 nav_order: 6
 ---
+
 ## Tabela de Tesouro (Loot)
+
 | Roll | Cenário                     |
 | ---- | --------------------------- |
 | 1    | Moedas.                     |
@@ -14,6 +16,7 @@ nav_order: 6
 | 6    | Poção/Pergaminho de Feitiço |
 
 ## Tabela de Eventos de Viagem
+
 | Roll | Cenário                    |
 | ---- | -------------------------- |
 | 1    | Mudanças climáticas.       |
