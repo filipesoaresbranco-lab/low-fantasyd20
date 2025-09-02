@@ -1,5 +1,5 @@
 ---
-title: Tabelas de Ganchos de História
+title: Tabelas de Armadilhas
 parent: Mestre
 nav_order: 7
 ---
