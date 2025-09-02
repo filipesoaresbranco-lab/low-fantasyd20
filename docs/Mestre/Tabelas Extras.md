@@ -1,3 +1,8 @@
+---
+title: Tabelas de Ganchos de História
+parent: Mestre
+nav_order: 6
+---
 ## Tabela de Tesouro (Loot)
 | Roll | Cenário                     |
 | ---- | --------------------------- |
