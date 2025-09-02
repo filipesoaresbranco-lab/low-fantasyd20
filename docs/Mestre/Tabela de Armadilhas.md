@@ -1,3 +1,8 @@
+---
+title: Tabelas de Ganchos de História
+parent: Mestre
+nav_order: 7
+---
 # Tabelas de Armadilhas
 
 Este documento fornece uma coleção de tabelas de armadilhas para Mestres de Jogo usarem em suas campanhas. Estas armadilhas são projetadas para desafiar os jogadores e incorporar as mecânicas do sistema de RPG fornecido, incluindo detecção, desarmamento e vários efeitos.
