@@ -1,5 +1,5 @@
 ---
-title: Nível
+title: Tabelas de Encontros
 parent: Mestre
 nav_order: 4
 ---
