@@ -1,3 +1,8 @@
+---
+title: Nível
+parent: Mestre
+nav_order: 3
+---
 ## NPC Pede Ajuda
 
 Role 1d6 ou escolha uma opção:
