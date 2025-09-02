@@ -50,7 +50,7 @@ Tire um momento para respirar e descansar agora, para no seu próximo turno ganh
 ### Socorrer
 _1 PA_
 
-Gaste uma ação para realizar primeiros-socorros e tentar estabilizar um personagem [[Inconsciente]]. Requer um teste de Conhecimento (saber o que fazer) ou Precisão (habilidade para fazer) de ND 10.
+Gaste uma ação para realizar primeiros-socorros e tentar estabilizar um personagem [Inconsciente](https://filipesoaresbranco-lab.github.io/low-fantasyd20/docs/Combate/Inconsciente.html). Requer um teste de Conhecimento (saber o que fazer) ou Precisão (habilidade para fazer) de ND 10.
 
 ## Avançadas
 Mais complexas, de custo maior e efeitos mais específicos. Tratam-se de manobras que requerem algum tipo de treinamento ou estudo. 
@@ -107,7 +107,7 @@ Dobre a sua velocidade de movimento e faça um ataque corpo-a-corpo no final.
 ### Fintar
 _2 PA_
 
-Ande a sua velocidade de movimento sem ativar qualquer Ataque de Oportunidade. Só é possível fintar quando não há nenhum inimigo adjacente ao personagem no início da ação de [[RPG/D20 RPG/Combate/Ações/Movimento]].  
+Ande a sua velocidade de movimento sem ativar qualquer Ataque de Oportunidade. Só é possível fintar quando não há nenhum inimigo adjacente ao personagem no início da ação de [Movimento](https://filipesoaresbranco-lab.github.io/low-fantasyd20/docs/Combate/Ações/Movimento.html).  
 
 ## Manobras De Mestre
 Essas podem ser utilizadas somente por classes específicas, e cobrem movimentos ou táticas de combate muito mais elaboradas.
@@ -135,7 +135,7 @@ Ao atirar com qualquer arma de longo alcance, gaste (antes da rolagem) um (1) PA
 ### Ripostar
 _1 PA_
 
-Ganhe +2 em Defesa. Prepare uma [[Reação]] para fazer um Ataque de Oportunidade na primeira vez em que errarem um ataque corpo-a-corpo contra você, até o início do seu próximo turno. 
+Ganhe +2 em Defesa. Prepare uma [Reação](https://filipesoaresbranco-lab.github.io/low-fantasyd20/docs/Combate/Ações/Reação.html) para fazer um Ataque de Oportunidade na primeira vez em que errarem um ataque corpo-a-corpo contra você, até o início do seu próximo turno. 
 
 ### Ataque Fatiado
 _2 PA_
