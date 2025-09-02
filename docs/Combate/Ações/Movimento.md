@@ -6,7 +6,7 @@ nav_order: 3
 
 ## Movimento
 Você se move em espaços representados no mapa por um quadrado ou hex, e cada quadrado ou hex possui 2 passos, ou 1,5 metros. 
-A capacidade de Movimento de qualquer personagem durante um [[Turno de Combate]] é de até 12 passos, ou 9 metros.
+A capacidade de Movimento de qualquer personagem durante um [Turno de Combate](https://filipesoaresbranco-lab.github.io/low-fantasyd20/docs/Combate/Turno%20de%20Combate.html) é de até 12 passos, ou 9 metros.
 
 #### Carga
 Empunhar armas de duas mãos, ou carregar baús abarrotados de tesouro, reféns amordaçados, donzelas em perigo, etc., requerem que o personagem possua ao menos 5 de Força, ou terá sua capacidade de movimento reduzida em 2 passos por ítem pesado.
