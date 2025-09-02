@@ -22,7 +22,7 @@ Ao contrário dos Verbos, na Magia os Nomes são infinitos, assim como as coisas
 ##### Escolas
 As diferentes escolas dão nomes diferentes para as coisas, e isso é um reflexo das tradições e realidades de cada, ao mesmo tempo que conferem efeitos mágicos diferentes. Um arcanista, um naturalista e um deísta possuem nomes diferentes para os elementos, então o poder de um difere vastamente do outro. Além do mais, cada escola possui caminhos exclusivos, com Nomes únicos. Desde que se mantenham dentro da mesma escola, Nomes podem ser combinados para magias mais complexas.
 ###### Aprendendo
-Seja através de estudo, iluminação ou acordos faustianos, acessar novos Caminhos e Escolas requer que você possua [[RPG/D20 RPG/Personagem/Perícias]] no campo. Só então, você pode preparar um Feitiço, determinando seus custos e efeitos. 
+Seja através de estudo, iluminação ou acordos faustianos, acessar novos Caminhos e Escolas requer que você possua [Perícias](https://filipesoaresbranco-lab.github.io/low-fantasyd20/docs/Personagem/Perícias.html) no campo. Só então, você pode preparar um Feitiço, determinando seus custos e efeitos. 
 #### Complexidade
 Com base nas **qualidades** e **quantidades** de efeitos, o Mestre determinará o grau de complexidade e custo final do feitiço.
 
