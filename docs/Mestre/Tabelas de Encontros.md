@@ -1,7 +1,7 @@
 ---
 title: Tabelas de Encontros
 parent: Mestre
-nav_order: 4
+nav_order: 5
 ---
 # Tabelas de Encontro Aleatório
 
