@@ -10,7 +10,7 @@ Em geral, inimigos possuem o mesmo número de recursos que personagens de jogado
 Algumas criaturas podem ter sentidos mais aguçados que o de humanos, e isso deve ser refletido aqui.
 ##### Resistências 
 Se uma criatura possui Vantagem para Testes de Resistência, o [Atributo](https://filipesoaresbranco-lab.github.io/low-fantasyd20/docs/Personagem/Atributos%20&%20Habilidades.html) correspondente deve ser indicado aqui.
-##### Movimento
+##### [Movimento](https://filipesoaresbranco-lab.github.io/low-fantasyd20/docs/Combate/Ações/Movimento.html)
 Assim como na ficha de jogadores e NPCs, indica a velocidade de [Movimento](https://filipesoaresbranco-lab.github.io/low-fantasyd20/docs/Combate/Ações/Movimento.html), mas isso também pode variar para inimigos voadores, nadadores, ou escavadores.
 
 ## Características
