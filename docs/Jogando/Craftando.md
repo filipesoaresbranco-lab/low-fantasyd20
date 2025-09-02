@@ -4,8 +4,8 @@ parent: Jogando
 nav_order: 4
 ---
 
-Crafting depende de proficiência em ferramentas. A proficiência em ferramentas concede a capacidade de criar facilmente qualquer item que requeira componentes básicos associados a essa ferramenta. 
-No entanto, se um personagem não tiver proficiência na ferramenta que estará utilizando, ele precisará passar em um teste muito difícil da Perícia para fabricar o item com sucesso.
+Crafting depende de [proficiência](https://filipesoaresbranco-lab.github.io/low-fantasyd20/docs/Personagem/Perícias.html) em ferramentas. A proficiência em ferramentas concede a capacidade de criar facilmente qualquer item que requeira componentes básicos associados a essa ferramenta. 
+No entanto, se um personagem não tiver proficiência na ferramenta que estará utilizando, ele precisará passar em um Teste Muito Difícil da Perícia para fabricar o item com sucesso.
 
 ### Componentes
 **Componentes Básicos:** Componentes básicos para crafting podem ser coletados por meio de exploração e coleta fora de cena. Os jogadores passam tempo de jogo procurando e coletando esses componentes, que são determinados pelo Mestre com base no bom senso e nas necessidades da história. 
