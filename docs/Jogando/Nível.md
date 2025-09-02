@@ -1,7 +1,7 @@
 ---
 title: Nível
-parent: Desafios e Progressão
-nav_order: 3
+parent: Mestre
+nav_order: 5
 ---
 
 Sempre que você sobe um nível, você recebe pontos para gastar com: [[Atributos & Habilidades]] ou [[Perícias]].
