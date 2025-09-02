@@ -1,4 +1,8 @@
-
+---
+title: Nível
+parent: Mestre
+nav_order: 4
+---
 # Tabelas de Encontro Aleatório
 
 Esta página contém tabelas de encontro aleatório categorizadas por ambiente, junto com vários tipos de encontro. Essas tabelas são projetadas para serem usadas pelo Mestre de Jogo para gerar rapidamente encontros durante o jogo.
