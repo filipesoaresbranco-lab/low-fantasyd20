@@ -1,3 +1,8 @@
+---
+title: Nível
+parent: Mestre
+nav_order: 1
+---
 O modo mais comum de se jogar sistemas D20 pode ser resumido às seguintes etapas:
 
 ##### Exploração
