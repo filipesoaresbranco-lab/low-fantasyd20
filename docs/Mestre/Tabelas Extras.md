@@ -1,5 +1,5 @@
 ---
-title: Tabelas de Ganchos de História
+title: Tabelas Extras
 parent: Mestre
 nav_order: 6
 ---
