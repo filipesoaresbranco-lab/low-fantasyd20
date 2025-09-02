@@ -6,7 +6,7 @@ nav_order: 3
 # Pontos
 Você inicialmente possui 8 pontos para distribuir entre seus Atributos, sendo eles: Físicos, Intelectuais, Motores e de Personalidade. O valor inicial do atributo também determina o valor inicial das Habilidades correspondentes à ele. 
 # Atributos & Habilidades
-Durante a sua aventura, os pontos de [[Nível]] que você ganhar podem ser aplicados no Atributo **ou** na Habilidade. Todavia, nenhuma Habilidade (exceto a Assinatura de Arquétipos) pode superar o valor de seu Atributo pai. E também, subir o Nível de um Atributo não subirá o das Habilidades filhas. 
+Durante a sua aventura, os pontos de [Nível](https://filipesoaresbranco-lab.github.io/low-fantasyd20/docs/Jogando/Nível.html) que você ganhar podem ser aplicados no Atributo **ou** na Habilidade. Todavia, nenhuma Habilidade (exceto a Assinatura de Arquétipos) pode superar o valor de seu Atributo pai. E também, subir o Nível de um Atributo não subirá o das Habilidades filhas. 
 ## Físico
 O seu atributo Físico cobre as suas características anatômicas e fisiológicas, o seu Sistema Muscular.
 - **Força:** O poder bruto do seu corpo, a potência que vem dos seus músculos.
