@@ -113,12 +113,12 @@ Role 1d20 ou escolha uma um tipo de encontro:
 
 | Roll | Perigo                                                                                                                                                                                                                                          |
 | ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1    | **Tempestade de Areia:** Uma tempestade de areia súbita e cegante reduzindo a visibilidade a quase zero e tornando a viagem extremamente difícil. Exige testes de **Constituição** (CD 15) para evitar estresse e dano menor da areia abrasiva. |
-| 2    | **Calor Extremo/Desidratação:** Exposição prolongada ao sol e falta de água. Exige testes regulares de **Constituição** (CD 10) para evitar fadiga e exaustão.                                                                                  |
-| 3    | **Areia Movediça/Dunas Instáveis:** Áreas de areia instável que podem fazer os personagens afundarem ou ficarem desorientados. Exige teste de **Agilidade** ou **Sabedoria** (CD 10) para navegar com segurança.                                |
-| 4    | **Buraco de Soma Oculta:** Um poço ou colapso oculto sob a areia. Exige um teste de **Sabedoria** bem-sucedido (CD 15) para detectar, e um teste de **Agilidade** (CD 10) para evitar cair.                                                     |
+| 1    | **Tempestade de Areia:** Uma tempestade de areia súbita e cegante reduzindo a visibilidade a quase zero e tornando a viagem extremamente difícil. Exige testes de **Constituição** (ND 15) para evitar estresse e dano menor da areia abrasiva. |
+| 2    | **Calor Extremo/Desidratação:** Exposição prolongada ao sol e falta de água. Exige testes regulares de **Constituição** (ND 10) para evitar fadiga e exaustão.                                                                                  |
+| 3    | **Areia Movediça/Dunas Instáveis:** Áreas de areia instável que podem fazer os personagens afundarem ou ficarem desorientados. Exige teste de **Agilidade** ou **Sabedoria** (ND 10) para navegar com segurança.                                |
+| 4    | **Buraco de Soma Oculta:** Um poço ou colapso oculto sob a areia. Exige um teste de **Sabedoria** bem-sucedido (ND 15) para detectar, e um teste de **Agilidade** (ND 10) para evitar cair.                                                     |
 | 5    | **Ventos Ardentes:** Ventos quentes e secos que sugam energia e dificultam a comunicação. Pode impor Desvantagem em testes de **Persuasão** ou **Autoridade**.                                                                                  |
-| 6    | **Cacto/Plantas Venenosas:** Flora do deserto com espinhos afiados ou propriedades tóxicas. Exige um teste de **Sabedoria** bem-sucedido (CD 10) para evitar, ou arriscar um dano menor (1d4 PV), ou uma penalidade temporária.                 |
+| 6    | **Cacto/Plantas Venenosas:** Flora do deserto com espinhos afiados ou propriedades tóxicas. Exige um teste de **Sabedoria** bem-sucedido (ND 10) para evitar, ou arriscar um dano menor (1d4 PV), ou uma penalidade temporária.                 |
 
 ### NPCs Viajantes no Deserto (1d6)
 
@@ -180,12 +180,12 @@ Role 1d20 ou escolha uma um tipo de encontro:
 
 | Roll | Perigo                                                                                                                                                                                                                |
 | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1    | **Motim/Protesto:** Uma multidão grande e agitada bloqueando as ruas, possivelmente tornando-se violenta. Exige testes de **Agilidade** ou **Persuasão** (CD 10) para navegar com segurança.                          |
-| 2    | **Incêndio/Explosão:** Um incêndio em um prédio ou uma explosão em uma rua movimentada, causando caos e perigo. Exige testes de **Agilidade** ou **Constituição** (CD 10) para evitar dano ou fumaça.                 |
-| 3    | **Desabamento/Estrutura Instável:** Um prédio abandonado ou estrutura instável que pode desabar. Exige um teste de **Sabedoria** bem-sucedido (CD 10) para detectar, e um teste de **Agilidade** (CD 10) para evitar. |
-| 4    | **Esgoto/Túnel Inundado:** Um túnel de esgoto ou passagem subterrânea inundada com água suja ou resíduos perigosos. Exige um teste de **Constituição** (CD 10) para evitar doenças ou dano menor.                     |
-| 5    | **Tráfego Intenso/Carroça Desgovernada:** Ruas lotadas com carroças, veículos ou pedestres, tornando a viagem lenta e perigosa. Exige testes de **Agilidade** (CD 10) para evitar colisões.                           |
-| 6    | **Poluição/Ar Irrespirável:** Ar pesado com fumaça industrial ou poluição mágica, causando desconforto ou penalidades temporárias. Exige testes de **Constituição** (CD 10) para evitar fadiga.                       |
+| 1    | **Motim/Protesto:** Uma multidão grande e agitada bloqueando as ruas, possivelmente tornando-se violenta. Exige testes de **Agilidade** ou **Persuasão** (ND 10) para navegar com segurança.                          |
+| 2    | **Incêndio/Explosão:** Um incêndio em um prédio ou uma explosão em uma rua movimentada, causando caos e perigo. Exige testes de **Agilidade** ou **Constituição** (ND 10) para evitar dano ou fumaça.                 |
+| 3    | **Desabamento/Estrutura Instável:** Um prédio abandonado ou estrutura instável que pode desabar. Exige um teste de **Sabedoria** bem-sucedido (ND 10) para detectar, e um teste de **Agilidade** (ND 10) para evitar. |
+| 4    | **Esgoto/Túnel Inundado:** Um túnel de esgoto ou passagem subterrânea inundada com água suja ou resíduos perigosos. Exige um teste de **Constituição** (ND 10) para evitar doenças ou dano menor.                     |
+| 5    | **Tráfego Intenso/Carroça Desgovernada:** Ruas lotadas com carroças, veículos ou pedestres, tornando a viagem lenta e perigosa. Exige testes de **Agilidade** (ND 10) para evitar colisões.                           |
+| 6    | **Poluição/Ar Irrespirável:** Ar pesado com fumaça industrial ou poluição mágica, causando desconforto ou penalidades temporárias. Exige testes de **Constituição** (ND 10) para evitar fadiga.                       |
 
 ### NPCs Viajantes Urbanos (1d6)
 
@@ -246,12 +246,12 @@ Role 1d20 ou escolha uma um tipo de encontro:
 
 | Roll | Perigo                                                                                                                                                                                                                                                    |
 | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1    | **Armadilha:** Uma armadilha mecânica ou mágica escondida, como dardos envenenados, pisos falsos ou feitiços de disparo. Exige um teste de **Sabedoria** bem-sucedido (CD 15) para detectar, e um teste de **Agilidade** (CD 10) para desarmar ou evitar. |
-| 2    | **Desabamento/Estrutura Instável:** Uma seção do teto ou parede prestes a desabar. Exige um teste de **Sabedoria** bem-sucedido (CD 10) para detectar, e um teste de **Agilidade** (CD 10) para evitar.                                                   |
-| 3    | **Gás Venenoso/Névoa Tóxica:** Uma área preenchida com gás venenoso ou névoa tóxica, causando dano ou penalidades. Exige um teste de **Constituição** (CD 10) para resistir.                                                                              |
-| 4    | **Poço/Precipício:** Um poço profundo ou precipício escondido na escuridão. Exige um teste de **Sabedoria** bem-sucedido (CD 15) para detectar, e um teste de **Agilidade** (CD 10) para evitar cair.                                                     |
-| 5    | **Enxurrada/Inundação:** Uma enxurrada súbita de água ou outro líquido inundando um corredor ou sala. Exige um teste de **Força** ou **Atletismo** (CD 15) para evitar ser arrastado.                                                                     |
-| 6    | **Campo de Energia Mágica:** Um campo de energia mágica que causa dano ou efeitos de status (ex.: paralisia, confusão) àqueles que passam por ele. Exige um teste de **Lógica** ou **Conhecimento** (CD 10) para identificar e desativar.                 |
+| 1    | **Armadilha:** Uma armadilha mecânica ou mágica escondida, como dardos envenenados, pisos falsos ou feitiços de disparo. Exige um teste de **Sabedoria** bem-sucedido (ND 15) para detectar, e um teste de **Agilidade** (ND 10) para desarmar ou evitar. |
+| 2    | **Desabamento/Estrutura Instável:** Uma seção do teto ou parede prestes a desabar. Exige um teste de **Sabedoria** bem-sucedido (ND 10) para detectar, e um teste de **Agilidade** (ND 10) para evitar.                                                   |
+| 3    | **Gás Venenoso/Névoa Tóxica:** Uma área preenchida com gás venenoso ou névoa tóxica, causando dano ou penalidades. Exige um teste de **Constituição** (ND 10) para resistir.                                                                              |
+| 4    | **Poço/Precipício:** Um poço profundo ou precipício escondido na escuridão. Exige um teste de **Sabedoria** bem-sucedido (ND 15) para detectar, e um teste de **Agilidade** (ND 10) para evitar cair.                                                     |
+| 5    | **Enxurrada/Inundação:** Uma enxurrada súbita de água ou outro líquido inundando um corredor ou sala. Exige um teste de **Força** ou **Atletismo** (ND 15) para evitar ser arrastado.                                                                     |
+| 6    | **Campo de Energia Mágica:** Um campo de energia mágica que causa dano ou efeitos de status (ex.: paralisia, confusão) àqueles que passam por ele. Exige um teste de **Lógica** ou **Conhecimento** (ND 10) para identificar e desativar.                 |
 
 ### NPCs Viajantes em Masmorras (1d6)
 
@@ -313,12 +313,12 @@ Role 1d20 ou escolha uma um tipo de encontro:
 
 | Roll | Perigo                                                                                                                                                                                                                                                          |
 | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1    | **Tempestade/Mar Revolto:** Uma tempestade súbita ou mar revolto, tornando a viagem perigosa e difícil. Exige testes de **Constituição** (CD 15) para evitar enjoo ou ser jogado ao mar.                                                                        |
-| 2    | **Correnteza Subaquática:** Uma correnteza subaquática forte puxando o grupo para baixo ou para longe. Exige um teste de **Força** ou **Atletismo** (CD 15) para resistir.                                                                                      |
-| 3    | **Recifes de Coral/Rochas Afiadas:** Recifes de coral afiados ou rochas subaquáticas que podem danificar embarcações ou causar ferimentos. Exige um teste de **Sabedoria** bem-sucedido (CD 10) para detectar, e um teste de **Agilidade** (CD 10) para evitar. |
-| 4    | **Água Poluída/Tóxica:** Água contaminada com poluição ou toxinas, causando doenças ou dano. Exige um teste de **Constituição** (CD 10) para resistir.                                                                                                          |
-| 5    | **Névoa Espessa:** Uma névoa espessa reduzindo a visibilidade a quase zero, tornando a navegação impossível. Exige testes de **Sabedoria** (CD 10) para evitar colisões.                                                                                        |
-| 6    | **Redemoinho:** Um redemoinho forte puxando embarcações ou nadadores para baixo. Exige um teste de **Força** ou **Atletismo** (CD 15) para escapar.                                                                                                             |
+| 1    | **Tempestade/Mar Revolto:** Uma tempestade súbita ou mar revolto, tornando a viagem perigosa e difícil. Exige testes de **Constituição** (ND 15) para evitar enjoo ou ser jogado ao mar.                                                                        |
+| 2    | **Correnteza Subaquática:** Uma correnteza subaquática forte puxando o grupo para baixo ou para longe. Exige um teste de **Força** ou **Atletismo** (ND 15) para resistir.                                                                                      |
+| 3    | **Recifes de Coral/Rochas Afiadas:** Recifes de coral afiados ou rochas subaquáticas que podem danificar embarcações ou causar ferimentos. Exige um teste de **Sabedoria** bem-sucedido (ND 10) para detectar, e um teste de **Agilidade** (ND 10) para evitar. |
+| 4    | **Água Poluída/Tóxica:** Água contaminada com poluição ou toxinas, causando doenças ou dano. Exige um teste de **Constituição** (ND 10) para resistir.                                                                                                          |
+| 5    | **Névoa Espessa:** Uma névoa espessa reduzindo a visibilidade a quase zero, tornando a navegação impossível. Exige testes de **Sabedoria** (ND 10) para evitar colisões.                                                                                        |
+| 6    | **Redemoinho:** Um redemoinho forte puxando embarcações ou nadadores para baixo. Exige um teste de **Força** ou **Atletismo** (ND 15) para escapar.                                                                                                             |
 
 ### NPCs Viajantes Aquáticos (1d6)
 
