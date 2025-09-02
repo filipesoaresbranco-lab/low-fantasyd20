@@ -3,6 +3,10 @@ title: Tabelas de Ganchos de História
 parent: Mestre
 nav_order: 4
 ---
+# Tabelas de Ganchos de História
+
+Esta página contém ganchos de história que Mestres iniciantes podem utilizar.
+
 ## NPC Pede Ajuda
 
 Role 1d6 ou escolha uma opção:
