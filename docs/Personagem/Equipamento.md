@@ -29,4 +29,4 @@ O Mestre é quem decide o tipo de uma arma, se ela é de **curto** ou **longo** 
 ## Propriedades dos Itens 
 **Resistência**: Itens podem ter 6, 8, ou 10 pontos de resistência, a depender do tipo de item e material. 
 
-**Dano:** Itens seguem a mesma lógica de dano que armas, de 1d6 a 3d6. Armadilhas, explosivos, etc, são tipos de itens que causam dano.
+**Dano:** Itens seguem a mesma lógica de Dano que armas, de 5 a 12 de Dano. Armadilhas, explosivos, etc, são tipos de itens que causam Dano.
