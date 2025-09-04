@@ -14,7 +14,7 @@ Vamos listar alguns exemplos de obras que podemos considerar como de baixa fanta
 - As Crônicas de Gelo e Fogo (George R. R. Martin)
 - A série de livros The Witcher
 - O Nome do Vento (Patrick Rothfuss)
-- A franquia Dark Souls
+- A franquia de jogos Dark Souls
 
 ----
 
